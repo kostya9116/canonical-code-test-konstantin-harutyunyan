@@ -1,7 +1,11 @@
 {
-  "name": "blog-posts",
+  "name": "blog-app-react-js",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kostya9116/canonical-code-test-konstantin-harutyunyan.git"
+  },
   "dependencies": {
     "@canonical/react-components": "^0.42.0",
     "@testing-library/jest-dom": "^5.14.1",

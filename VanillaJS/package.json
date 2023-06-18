@@ -1,7 +1,11 @@
 {
-  "name": "blog-posts",
+  "name": "blog-app-vanilla-js",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "license": "MIT",
-  "author": "Konstantin Harutyunyan"
+  "author": "Konstantin Harutyunyan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kostya9116/canonical-code-test-konstantin-harutyunyan.git"
+  }
 }

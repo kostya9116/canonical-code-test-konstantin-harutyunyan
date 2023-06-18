@@ -14,8 +14,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/react-blog-app.git
-   cd react-blog-app
+   git clone https://github.com/kostya9116/canonical-code-test-konstantin-harutyunyan.git
+   cd VanillaJS
 
 2. Open `index.html` in your preferred web browser
   
